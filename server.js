@@ -6,15 +6,7 @@
 * (including 3rd party web sites) or distributed to other students.
 *
 * Name: Ezenwa Chinemerem Student ID: 111410221 Date: July 26, 2023
-* Online (Cyclic) Link: 
-*
-git status
-git add .
-git commit -m "Your commit message here"
-git push
-git branch -  to know the branch you are working on
-git push origin master
-
+* Online (Cyclic) Link:  https://rich-ruby-bass-garb.cyclic.app 
 
 ********************************************************************************/
 
