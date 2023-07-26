@@ -46,8 +46,8 @@ h1  {
 }
 
 .btn-primary {
-    background: #759b64; /* fallback color */
-    background: linear-gradient( to bottom, #759b64, #b4b4c1);
+    background: #9b6481; /* fallback color */
+    background: linear-gradient( to bottom, #9b6483, #c1b4b9);
     color: #ffffff; /* Text color */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
     transition: background-color 0.3s ease, color 0.3s ease; /* Transition effect for smooth color change */
